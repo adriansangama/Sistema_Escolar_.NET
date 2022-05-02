@@ -1,0 +1,16 @@
+C:\Users\Adrian\source\repos\appSistemaEscolar\bin\Debug\appSistemaEscolar.exe.config
+C:\Users\Adrian\source\repos\appSistemaEscolar\bin\Debug\appSistemaEscolar.exe
+C:\Users\Adrian\source\repos\appSistemaEscolar\bin\Debug\appSistemaEscolar.pdb
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.Properties.Resources.resources
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.csproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.exe
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.pdb
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.gui.frmLoginn.resources
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.gui.frmVentana.resources
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.gui.frmCargo.resources
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.gui.frmAlumno.resources
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.gui.frmCurso.resources
+C:\Users\Adrian\source\repos\appSistemaEscolar\obj\Debug\appSistemaEscolar.gui.frmProfesor.resources
